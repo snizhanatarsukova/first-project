@@ -1,0 +1,2 @@
+class ResponseModel:
+  status: int
