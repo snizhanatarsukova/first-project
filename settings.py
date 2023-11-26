@@ -1,2 +1,8 @@
 class Settings:
   SQLACHEMY_URI: str
+  SQLACHEMY_URI: str
+  SQLACHEMY_URI: str
+  SQLACHEMY_URI: str
+  SQLACHEMY_URI: str
+  SQLACHEMY_URI: str
+  
