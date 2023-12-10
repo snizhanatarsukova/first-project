@@ -2,7 +2,6 @@ def bubbleSort(arr):
     n = len(arr)
    
     swapped = False
-    # Traverse through all array elements
     for i in range(n-1):
         
         for j in range(0, n-i-1):
