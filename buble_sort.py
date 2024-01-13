@@ -1,7 +1,7 @@
 def bubbleSort(arr):
     n = len(arr)
    
-    swapped = False
+    swapped = False # should be false always
     for i in range(n-1):
         
         for j in range(0, n-i-1):
