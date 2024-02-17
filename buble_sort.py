@@ -15,5 +15,3 @@ def bubbleSort(arr):
 arr = [64, 34]
  
 bubbleSort(arr)
-for i in range(len(arr)):
-    print("% d" % arr[i], end=" ")
